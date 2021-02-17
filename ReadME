@@ -1,8 +1,1 @@
-echo "# glock-repo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Lglockner99/glock-repo.git
-git push -u origin main
 "Hello! This is my first ever repo and I'm looking forward to using this platform to document my ideas and work. Thanks for visiting. 
