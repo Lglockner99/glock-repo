@@ -3,8 +3,6 @@ Name: Liam Glockner
 Course: ECE 322 
 Assignment: 5  
 
-I did not attempt the extra credit :(
-
                           
  * Lab 5 Starter code:                                                                            
  *        single doubly-linked free block list with LIFO policy                                   
